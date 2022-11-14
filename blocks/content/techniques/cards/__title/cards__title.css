@@ -1,0 +1,6 @@
+.cards__title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 16px;
+  }

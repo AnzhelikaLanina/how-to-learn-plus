@@ -1,0 +1,6 @@
+.resources__logo-zone {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  padding-top: 80px;
+}
