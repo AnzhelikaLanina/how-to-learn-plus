@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9d8fcf0-5369-474a-96a8-35db2cd368f0" name="Changes" comment="init" />
+    <list default="true" id="e9d8fcf0-5369-474a-96a8-35db2cd368f0" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/_book-container_book-pic/__book-container_book-pic_image/footer__book-container__book-pic_image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__author/__author_text/footer__author_text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/__column-heading/__column-heading_text/footer__column-heading_text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/__column-heading/footer__column-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/__column-links/__column-link/__column-link_text/footer__column-link_text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/__column-links/__column-link/footer__column-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/__column-links/__social-icon/footer__social-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/__column-links/footer__column-links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column/footer__column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column_content_copyright/footer__column_content_copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column_content_info/footer__column_content_info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/__column_content_social/footer__column_content_social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/footer__columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiktok-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/youtube-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/kaufman/__triangle/kaufman__triangle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/_book-container_book-pic/khan__container_book-container_book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/_book-container_book-pic/khan__container_book-container_book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/_book-container_buy-link/khan__container_book-container_buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/_book-container_buy-link/khan__container_book-container_buy-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/khan__container_book-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_book-container/khan__container_book-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/__container_quote-author-subline/khan__container_quote-author-subline.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_quote-author-subline/khan__container_quote-author-subline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/__container_quote-author/khan__container_quote-author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_quote-author/khan__container_quote-author.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/__container_quote/khan__container_quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/__container_quote/khan__container_quote.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/khan__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__container/khan__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/khan.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/khan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/resourses/__logo-zone/__logo-zone_link/resourses__logo-zone_link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/resourses/__logo-zone/__logo-zone_link/resourses__logo-zone_link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/resourses/__logo-zone/resourses__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/resourses/__logo-zone/resourses__logo-zone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logo/logo_place_footer/logo_place_footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/logo_place_footer/logo_place_footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/rotation.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__cell/__cell_dark/table__cell_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/__cell_theme_dark/table__cell_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__text/__text_black/table__text_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__text/__text_theme_black/table__text_theme_black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/description__two-columns.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/facebook_color_white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram_color_white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +80,19 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Applications/frontend/first-project__startkit&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/blocks/footer/footer__columns" />
+      <recent name="$PROJECT_DIR$/blocks/footer/footer__columns/footer__column" />
+      <recent name="$PROJECT_DIR$/blocks/footer" />
+      <recent name="$PROJECT_DIR$/blocks/footer/footer__columns/footer__column-b/footer__column_copyright" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +107,9 @@
       <workItem from="1668442374077" duration="556000" />
       <workItem from="1668442949583" duration="387000" />
       <workItem from="1668443385457" duration="19000" />
+      <workItem from="1668443406070" duration="419000" />
+      <workItem from="1668443836460" duration="29035000" />
+      <workItem from="1668597648345" duration="3393000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668442583420</created>
@@ -62,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668442583420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1668443483264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668443483264</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
