@@ -1,4 +1,8 @@
 .header__main-illustration {
+    width: 765px;
+    height: 608px;
+    object-position: right;
+    object-fit: contain;
     position: absolute;
     right: 0;
     bottom: 0;
